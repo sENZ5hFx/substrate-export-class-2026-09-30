@@ -1,0 +1,9 @@
+SEC-2026-09-30  sha256 e55db121297fd13f8a12948c95669d92b3f652cc22e241f7f28f186cdedd8080
+novelty_capped 0.36  coherence 0.81
+live_mass 38.377
+ranking:
+  01. 13.2816  plant_anesthesia  land
+  02. 10.7490  xenocortical_sentience  humans
+  03.  6.3648  gut_cognition  humans
+  04.  4.4352  o2_photosynthetic_biosignature  space
+  05.  3.5464  organoid_intelligence  humans
